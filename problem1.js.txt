@@ -1,5 +1,5 @@
 let a=4;
-
+dddd
 (a%2==0) ? console.log("even") : console.log("odd");
 (a%2==0) ? console.log("even") : console.log("odd");
 (a%2==0) ? console.log("even") : console.log("odd");
@@ -8,3 +8,5 @@ let a=4;
 (a%2==0) ? console.log("even") : console.log("odd");
 (a%2==0) ? console.log("even") : console.log("odd");
 (a%2==0) ? console.log("even") : console.log("odd");
+ffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffff
